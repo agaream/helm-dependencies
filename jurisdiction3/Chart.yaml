@@ -23,6 +23,6 @@ version: 0.1.0
 # It is recommended to use it with quotes.
 appVersion: "1.16.0"
 dependencies:
-  - name: my-app
-    version: "0.1.0"
-    repository: "oci://tss-dev.core.harbor.dev.lab/library/my-app"
+  - name: helloworld
+    version: "0.2.1"
+    repository: "https://crowdsecurity.github.io/helm-charts"
